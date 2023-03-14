@@ -1,0 +1,51 @@
+     
+                Online Medicine Curior Service (OMCS)
+
+
+     
+    End User:
+     
+     
+
+  1)  admin:
+    
+            : login   => First registration or login 
+            :manage customer  =>admin is manage customer problems.
+            :manage stock in medicine => stock increas or decreas manage proper stock in store.
+            :manage feedback => if any customer give bad note or massage than admin manage website's feedback   
+            :manage store account
+            :manage delivery boy
+ 
+    2) store:
+
+             :login
+             :entery online prescription into cart send to customer
+             :pending order checkout
+             :mange payment
+             :information of customer and delivery boy  
+
+
+
+
+    3) customer:
+     
+                :registration
+                :login 
+                :forgot password
+                :
+                :scann or upload prescription 
+                :view medicine
+                :add to cart
+                :delivery option
+                :online payment
+
+
+   4) delivery boy:
+          
+                   :registration
+                   :login
+                   :forgot password 
+                   :order replace to address
+                   :location option
+                   :payment confirmation
+                   :reviwe            
